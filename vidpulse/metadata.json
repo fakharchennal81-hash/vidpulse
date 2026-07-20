@@ -1,0 +1,6 @@
+{
+  "name": "VidPulse",
+  "description": "YouTube SEO analyzer and AI-powered title generator to extract competitor tags, analyze video performance, and optimize titles for maximum CTR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
